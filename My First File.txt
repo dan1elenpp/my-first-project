@@ -3,3 +3,5 @@ Hello in Version control!
 test of changing the test! i added some new words
 
 I'm testing github
+
+testing the master
